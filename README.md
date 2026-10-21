@@ -8,13 +8,13 @@ HTML
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=brunogustavo74&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="Linguagens mais utilizadas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=buenots&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="Linguagens mais utilizadas" />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=brunogustavo74.brunogustavo74" alt="Contador de visitantes" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=buenots.buenots" alt="Contador de visitantes" />
 </div>
 
 ###
